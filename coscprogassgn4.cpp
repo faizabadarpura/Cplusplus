@@ -6,9 +6,9 @@ using namespace std;
 
 struct Records{
     	string product;
-		double cost;
-		int in_stock;
-		int on_order;
+	double cost;
+	int in_stock;
+	int on_order;
 	};
 	
 // Write your functions here
